@@ -1,0 +1,6 @@
+framework module Pods_searchPic_People {
+  umbrella header "Pods-searchPic&People-umbrella.h"
+
+  export *
+  module * { export * }
+}
